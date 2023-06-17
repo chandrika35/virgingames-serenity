@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games test","This will generate the data with currency GBP","SUCCESS","2023-06-17T17:11:56.498+01:00[Europe/London]","0.0","3.88"
+"Virgin games test","This will generate the data with currency EUR","SUCCESS","2023-06-17T17:12:00.406+01:00[Europe/London]","0.0","0.33"
+"Virgin games test","This will generate the data with currency SEK","SUCCESS","2023-06-17T17:12:00.739+01:00[Europe/London]","0.0","0.36"
